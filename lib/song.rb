@@ -19,6 +19,7 @@ def initialize(name, artist, genre)
 end
 
 def count
+  binding.pry
 end
 
 end
